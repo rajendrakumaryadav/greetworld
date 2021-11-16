@@ -7,10 +7,10 @@
 # documentation.
 
 name: PyPi Pubish
-
-on:
-  release:
-    types: [published]
+on: push
+# on:
+#   release:
+#     types: [published]
 
 jobs:
   deploy:
