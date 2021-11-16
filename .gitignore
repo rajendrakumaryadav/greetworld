@@ -2,3 +2,4 @@
 build
 dist
 hello_world/hello_world.egg-info/
+hello_world/greeting.egg-info/
