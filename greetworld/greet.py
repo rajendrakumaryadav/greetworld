@@ -1,4 +1,4 @@
-class hello_world:
+class greet:
     def __init__(self, name="World"):
         self.message = "Hello, {}!".format(name)
 

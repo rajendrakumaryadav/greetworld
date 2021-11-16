@@ -4,11 +4,11 @@ It is based on Python and return
 
 ```bash
 $python
-> from hello_world import greet
-> hello = greet.hello_world()
+> from greetworld import greet
+> hello = greet.greet()
 > print(hello.say_hello())
 Hello, World!
-> hello = greet.hello_world("Rajendra")
+> hello = greet.greet("Rajendra")
 > print(hello.say_hello())
 Hello, Rajendra!
 ```
