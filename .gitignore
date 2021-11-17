@@ -4,3 +4,5 @@ dist
 hello_world/hello_world.egg-info/
 hello_world/greeting.egg-info/
 greetworld/greet.egg-info/*
+.idea/**
+.pytest_cache
