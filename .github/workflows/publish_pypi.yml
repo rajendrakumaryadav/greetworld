@@ -6,11 +6,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: PyPi Pubish
+name: PyPi publish
 on: push
-# on:
-#   release:
-#     types: [published]
 
 jobs:
   deploy:
